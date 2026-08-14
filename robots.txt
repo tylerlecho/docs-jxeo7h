@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://reference-hpe65p.radarsatu88.sbs/sitemap.xml
